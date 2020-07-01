@@ -1,0 +1,45 @@
+1593535517142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei3no0B"
+1593535528559	Marionette	INFO	Listening on port 46297
+1593535528582	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593535634622	Marionette	INFO	Stopped listening on port 46297
+1593535660146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef7r01u"
+1593535670958	Marionette	INFO	Listening on port 44811
+1593535670999	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x590006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1593536784654	Marionette	INFO	Stopped listening on port 44811
+1593536864230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYVMVMP"
+1593536876579	Marionette	INFO	Listening on port 38399
+1593536876598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593536887419	Marionette	INFO	Stopped listening on port 38399
+1593537670038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKsJRb"
+1593537676077	Marionette	INFO	Listening on port 34253
+1593537676155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593537709498	Marionette	INFO	Stopped listening on port 34253
+1593537721156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqqjKTI"
+1593537726205	Marionette	INFO	Listening on port 35291
+1593537726270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593537749635	Marionette	INFO	Stopped listening on port 35291
+1593538054048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIyQFFg"
+1593538059924	Marionette	INFO	Listening on port 36349
+1593538060072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593538082009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6nRdfX"
+1593538088440	Marionette	INFO	Listening on port 38961
+1593538088549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593538115272	Marionette	INFO	Stopped listening on port 38961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
